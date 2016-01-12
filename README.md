@@ -1,37 +1,31 @@
-# _{Application Name}_
+# _Jack-in-the-Box Image Surprise_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _Practice website for basic jQuery and navigation of the DOM, 1.12.2016_
 
-#### By _**{List of contributors}**_
+#### By _**Michael Dada and Joseph Karasek**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This is a basic website practice project to demonstrate navigation of the DOM with javascript. Clicking the button will reveal a scary image. Clicking the image will hide it and bring back the button._
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+_Copy this repo and open the index.html file in any standard web browser. All resources (bootstrap, jquery) have been included in the repo._
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_The functionality of the buttons and images stops after the first itteration. A better method that would have avoided this would have been to toggle the display of the images and buttons instead of creating new elements. However, the point of this exercise was to practice inserting new elements..._
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_Feel free to contact the authors of this repo through the GitHub account you have landed on._
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_Bootstrap and jQuery_
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*Mit License*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2016 **_Michael Dada and Joseph Karasek_**
