@@ -1,0 +1,12 @@
+.clickbox {
+  border: solid black 5px;
+}
+
+.imagerow{
+  margin-top: 50%;
+}
+
+.imagebox{
+  border: solid black 5px;
+  height: 200px;
+}
